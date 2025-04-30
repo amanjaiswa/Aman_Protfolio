@@ -1,0 +1,53 @@
+[
+  {
+    "title": "React JS",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "HTML 5",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS 3",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  },
+  {
+    "title": "Linux",
+    "imageSrc": "skills/linux.png"
+  },
+  {
+    "title": "Bitbucket",
+    "imageSrc": "skills/bitbucket.png"
+  },
+  {
+    "title": "Git & github",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "Jenkins",
+    "imageSrc": "skills/jenkins.png"
+  },
+  {
+    "title": "CI/CD",
+    "imageSrc": "skills/cicd.png"
+  },
+  {
+    "title": "OpenShift",
+    "imageSrc": "skills/openshift.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  }
+   
+   
+  
+]

@@ -1,0 +1,21 @@
+[
+  
+  {
+    "key": 1,
+    "title": "Movie Search App",
+    "imageSrc": "project/movie.png",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://movie-search-app-nine-omega.vercel.app/",
+    "source": "https://github.com/amanjaiswa/Movie-Search-App"
+  },
+  {
+    "key": 2,
+    "title": "Spotify",
+    "imageSrc": "project/spotify.png",
+    "description": "This is a project made with Javascript, CSS3 and HTML5.",
+    "demo": "https://github.com/amanjaiswa/SpotifyClone",
+    "source": "https://github.com/amanjaiswa/SpotifyClone"
+  }
+  
+ 
+]

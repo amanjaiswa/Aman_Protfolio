@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "role": "Senior Software Development Engineer SDE - II",
+    "organisation": "Bharti Airtel",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "location": "Gurugram",
+    "experiences": [
+      "Worked with the Airtel Network Automation Team"
+    ],
+    "imageSrc": "company/airtel.png"
+  },
+  
+  {
+    "id": 2,
+    "role": "Software Development Engineer - Intern",
+    "organisation": "Repozitory",
+    "startDate": "Apr, 2023",
+    "endDate": "Jun, 2023",
+    "location": "Remote",
+    "experiences": [
+      "Designed and developed web portals for Travel agency and  Restaurants."
+    ],
+    "imageSrc": "company/repozitory.png"
+  }
+]
