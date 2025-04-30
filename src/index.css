@@ -15,6 +15,8 @@ code {
 :root{
   --box-shadow:5px 5px 10px 10px rgba(50, 199, 222, 0.5);
   --bg-color:rgb(40,47,97);
+  --box-shadowww:2px 2px 2px 2px rgba(50, 199, 222, 0.5);
+ 
 }
 
 body{
@@ -28,12 +30,13 @@ a{
   text-decoration: none;
   color: white;
 }
-
-/* .container nav_bar{
-  background-color: yellow;
-  width: 950px;
-
-} */
+ 
+.navbody{
+  width: 1300px;
+  padding: 20px;
+  background-color: rgb(48, 61, 72);
+  box-shadow: var(--box-shadowww);
+}
 
 .nav_bar{
   display: flex;
@@ -190,8 +193,17 @@ color: black;
 
 /* contact */
 
+.contactbody{
+  width: 1300px;
+  background-color: rgb(48, 61, 72);
+  margin-left: -80px;
+  margin-top: 30px; 
+  /* border: 1.5px solid rgb(255, 0, 217); */
+  box-shadow: var(--box-shadow);
+}
+
 .contact-icon{
-  height: 30vh;
+height: 30vh;
 display: flex;
 justify-content: center;
 align-items: center;
@@ -216,5 +228,9 @@ box-shadow: var(--box-shadow);
 .contact-icon .items .icons{
  cursor: pointer;
   font-size: 2rem;
+}
+
+.contacttext{
+  padding-top: 10px;
 }
 

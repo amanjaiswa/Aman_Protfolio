@@ -6,8 +6,9 @@ import { IoIosMail } from "react-icons/io";
 function Contact() {
   return (
     <>
+    <div  className='contactbody'  > 
     <div className='container contact' id='contact' > 
-    <h1>CONTACT ME</h1>
+    <h1 className='contacttext'  >CONTACT ME</h1>
        <div className='contact-icon'
         data-aos ="zoom-in-up"
         data-aos-duration="1000"
@@ -26,7 +27,7 @@ function Contact() {
 
       </div>
     </div>
-
+    </div>
     </>
   )
 }

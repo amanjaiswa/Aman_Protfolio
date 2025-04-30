@@ -2,12 +2,13 @@ import React from 'react'
 
 function Navbar() {
   return (
-    <div>
+    <>
+    <div className='navbody' > 
     <div className='container nav_bar'
     data-aos="fade-down"
     data-aos-duration="1000"
     >
-       <div className='left nav_items '> Protfolio </div>
+       <div className='left nav_items '>  </div>
        <div className='right'> 
         <a href='#home' className='nav_items'> Home</a>
         <a href='#experience' className='nav_items'> Experience</a>
@@ -18,6 +19,7 @@ function Navbar() {
 
     </div>
     </div>
+    </>
   )
 }
 
