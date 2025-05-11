@@ -5,7 +5,7 @@ function Experience() {
   return (
     <>
       <div className='container ex' id='experience' >
-        <h1>Work Experience</h1>
+        <h1>Work Experiences</h1>
         {
           experience.map((data) => {
             return (

@@ -11,7 +11,7 @@ function Home() {
 
    useEffect(()=>{
     const options ={
-        strings:["Welcome to my profile. I am Software Developer at Bharti Airtel."],
+        strings:["Welcome to my profile. I am Software Engineer at Bharti Airtel."],
         typeSpeed:50,
         backSpeed:50,
         loop:true
@@ -35,7 +35,7 @@ function Home() {
                     {/* Software Developer (React JS) */}
                     </h1>
                     <a href={pdf} download="Aman_SoftwareDeveloper.pdf"
-                        className='btn btn-outline-warning'> Download Resume </a>
+                        className='btn btn-outline-warning'> Download my Resume </a>
                 </div>
                 <div className='right'> 
                 <div className='img'  >

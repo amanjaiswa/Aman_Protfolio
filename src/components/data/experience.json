@@ -1,20 +1,20 @@
 [
   {
     "id": 1,
-    "role": "Senior Software Development Engineer SDE - II",
+    "role": "Software Engineer SDE - 1",
     "organisation": "Bharti Airtel",
     "startDate": "Aug, 2023",
     "endDate": "Present",
     "location": "Gurugram",
     "experiences": [
-      "Worked with the Airtel Network Automation Team"
+      "Currently working with the Bharti Airtel Network Automation Team."
     ],
     "imageSrc": "company/airtel.png"
   },
   
   {
     "id": 2,
-    "role": "Software Development Engineer - Intern",
+    "role": "Software Engineer - Intern",
     "organisation": "Repozitory",
     "startDate": "Apr, 2023",
     "endDate": "Jun, 2023",
