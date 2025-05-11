@@ -89,9 +89,9 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-left: 200px;
-  /* margin-left: auto; */
-  /* margin-right: auto; */
+  /* margin-left: 200px; */
+  margin-left: auto; 
+   margin-right: auto;
 }
 
 .home .right .img img {
@@ -180,7 +180,7 @@ a {
 
 /* Contact */
 .contactbody {
-  width: 100%;
+  width: 115%;
   background-color: rgb(48, 61, 72);
   padding: 20px;
   margin-top: 40px;
