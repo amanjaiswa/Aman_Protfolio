@@ -241,8 +241,11 @@ a {
 }
 
 @media (max-width: 600px) {
+  .navbody{
+  width: 130%;
+  }
   .nav_bar {
-    
+     
     flex-direction: column;
     gap: 10px;
   }
@@ -254,12 +257,17 @@ a {
   .home .right .img img {
     height: 180px;
     width: 180px;
-    margin-right: 100px;
-    margin-top: 20px;
+    margin-right: 125px;
+    margin-top: 60px;
   }
 
   .home .left {
     padding: 15px;
+  }
+
+  .contactbody{
+    /* margin-left: 10px; */
+    width: 160%;
   }
 
   .contact-icon .items {
