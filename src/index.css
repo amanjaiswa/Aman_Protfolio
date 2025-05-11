@@ -234,3 +234,51 @@ box-shadow: var(--box-shadow);
   padding-top: 10px;
 }
 
+
+
+/* * Media Queries */ 
+@media (max-width: 1024px) {
+  .home {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .skills .items .item {
+    width: calc(50% - 20px);
+  }
+
+  .ex-items {
+    flex-direction: column;
+    gap: 15px;
+  }
+}
+
+@media (max-width: 600px) {
+  .navbody{
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .nav_bar {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .skills .items .item {
+    width: 100%;
+  }
+
+  .home .right .img img {
+    height: 180px;
+    width: 180px;
+  }
+
+  .home .left {
+    padding: 15px;
+  }
+
+  .contact-icon .items {
+    height: 60px;
+    width: 60px;
+  }
+}
