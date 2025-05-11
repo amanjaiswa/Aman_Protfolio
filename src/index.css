@@ -23,7 +23,7 @@ a {
 
 /* Navbar */
 .navbody {
-  max-width: 100%;
+  width: 110%;
   padding: 20px;
   background-color: rgb(48, 61, 72);
   box-shadow: var(--box-shadowww);
@@ -59,6 +59,7 @@ a {
 
 .home .left {
   background-color: var(--bg-color);
+  /* position: relative; */
   flex: 1;
   min-width: 300px;
   max-width: 600px;
@@ -86,12 +87,14 @@ a {
 }
 
 .home .right .img {
+  position: absolute;
   display: flex;
   justify-content: center;
   align-items: center;
-  /* margin-left: 200px; */
-  margin-left: auto; 
-   margin-right: auto;
+  margin-left: 200px;
+  margin-top: -120px;
+  /* margin-left: auto; 
+   margin-right: auto; */
 }
 
 .home .right .img img {
@@ -180,7 +183,7 @@ a {
 
 /* Contact */
 .contactbody {
-  width: 115%;
+  width: 120%;
   background-color: rgb(48, 61, 72);
   padding: 20px;
   margin-top: 40px;
